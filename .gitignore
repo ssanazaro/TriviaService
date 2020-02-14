@@ -21,3 +21,6 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/.vs/TriviaService/DesignTimeBuild/.dtbcache
+/.vs/TriviaService/v16/Server/sqlite3/db.lock
+/.vs/TriviaService/v16/Server/sqlite3
